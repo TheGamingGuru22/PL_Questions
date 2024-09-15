@@ -24,7 +24,7 @@
 The idea I chose to investigate for this assignment was how have programming languages improved upon each other over the course of several iterations? Taking in batches of four to five programming languages that came out roughly around the same time as each other, I wanted to ask a LLM, in this case ChatGPT 3.5, how has each iteration of programming languages improved upon each other, and why those improvements were deemed necessary or desired. For each iteration, I asked a similar question providing a handful of other programming languages, asking about how the new iterations of programming languages improved upon the previous iterations. All in all, my version of this assignment covers descriptions of twenty-seven different programming languages, the purpose behind their development, and how the next generation of programming languages improved upon the previous. Interestingly enough, a majority of improvements came about due to a desire for easier readability, error detectability, and functionality for those looking to better understand code without a very in-depth scientific background. Other grounds for desired upgrades appeared in the economic sector, as businesses desired programs and systems that allowed for easier data collection, moderation, and manipulation.
 
 
-# Back & Forth with ChatGPT 3.5
+# Back & Forth with ChatGPT
 
 ## Good afternoon ChatGPT, could you inform me on how programming languages such as FORTRAN, ALGOL, Autocode and LISP were created and what they were used for?
 
