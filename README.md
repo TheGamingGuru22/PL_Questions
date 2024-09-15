@@ -470,3 +470,5 @@ Creation: Swift was developed by Apple, with Chris Lattner leading the effort, a
 This new generation of programming languages emphasizes safety, performance, and concurrency. They introduce innovations such as memory safety (Rust), concurrent programming with goroutines (Go), and more modern syntax (Swift), marking a significant leap forward in terms of both developer productivity and application performance.
 
 # References
+- https://javaconceptoftheday.com/history-of-programming-languages/
+- [chat.openai.com](https://chatgpt.com/)
